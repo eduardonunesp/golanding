@@ -1,8 +1,8 @@
-FROM ubuntu:14.04
+FROM golang:1.7.1
 
 WORKDIR /app
-COPY main /app/
+COPY . /app
 
-EXPOSE 8000
+EXPOSE 3000
 
 ENTRYPOINT ["./main"]

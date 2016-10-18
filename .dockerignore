@@ -1,0 +1,10 @@
+vendor
+Godeps
+.gitignore
+build.sh
+Dockerfile
+gulpfile.js
+LICENSE
+main.go
+package.json
+README.md
