@@ -1,4 +1,4 @@
-vendor
+./vendor
 Godeps
 .gitignore
 build.sh
