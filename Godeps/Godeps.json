@@ -1,0 +1,75 @@
+{
+	"ImportPath": "github.com/golanding",
+	"GoVersion": "go1.9",
+	"GodepVersion": "v80",
+	"Deps": [
+		{
+			"ImportPath": "github.com/gin-contrib/sse",
+			"Rev": "22d885f9ecc78bf4ee5d72b937e4bbcdc58e8cae"
+		},
+		{
+			"ImportPath": "github.com/gin-gonic/gin",
+			"Comment": "v1.2-146-g5d3f30c",
+			"Rev": "5d3f30cfc81f9109850fa9043a19783cbbde68a5"
+		},
+		{
+			"ImportPath": "github.com/gin-gonic/gin/binding",
+			"Comment": "v1.2-146-g5d3f30c",
+			"Rev": "5d3f30cfc81f9109850fa9043a19783cbbde68a5"
+		},
+		{
+			"ImportPath": "github.com/gin-gonic/gin/json",
+			"Comment": "v1.2-146-g5d3f30c",
+			"Rev": "5d3f30cfc81f9109850fa9043a19783cbbde68a5"
+		},
+		{
+			"ImportPath": "github.com/gin-gonic/gin/render",
+			"Comment": "v1.2-146-g5d3f30c",
+			"Rev": "5d3f30cfc81f9109850fa9043a19783cbbde68a5"
+		},
+		{
+			"ImportPath": "github.com/golang/protobuf/proto",
+			"Comment": "v1.0.0-1-gbbd03ef",
+			"Rev": "bbd03ef6da3a115852eaf24c8a1c46aeb39aa175"
+		},
+		{
+			"ImportPath": "github.com/json-iterator/go",
+			"Comment": "1.1.1-3-gfff342f",
+			"Rev": "fff342fd040c4460be37f6f98413e73eff0ac3ff"
+		},
+		{
+			"ImportPath": "github.com/mattn/go-isatty",
+			"Comment": "v0.0.3-7-g6ca4dbf",
+			"Rev": "6ca4dbf54d38eea1a992b3c722a76a5d1c4cb25c"
+		},
+		{
+			"ImportPath": "github.com/ugorji/go/codec",
+			"Comment": "v1.1-15-g16f09ef",
+			"Rev": "16f09ef744fd4227190f626f14cfdefb14362b3b"
+		},
+		{
+			"ImportPath": "github.com/v2pro/plz/concurrent",
+			"Comment": "0.9.1-2-ge0a9268",
+			"Rev": "e0a92682fb26ce61f17f23bf96acf9150c516e0c"
+		},
+		{
+			"ImportPath": "github.com/v2pro/plz/reflect2",
+			"Comment": "0.9.1-2-ge0a9268",
+			"Rev": "e0a92682fb26ce61f17f23bf96acf9150c516e0c"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/unix",
+			"Rev": "88d2dcc510266da9f7f8c7f34e1940716cab5f5c"
+		},
+		{
+			"ImportPath": "gopkg.in/go-playground/validator.v8",
+			"Comment": "v8.18.2",
+			"Rev": "5f1438d3fca68893a817e4a66806cea46a9e4ebf"
+		},
+		{
+			"ImportPath": "gopkg.in/yaml.v2",
+			"Comment": "v2.1.1",
+			"Rev": "7f97868eec74b32b0982dd158a51a446d1da7eb5"
+		}
+	]
+}
